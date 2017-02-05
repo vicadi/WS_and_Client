@@ -1,0 +1,86 @@
+h1{
+    width: 100%;
+    text-align: center;
+    color: grey !important;
+    float: left;
+    border-bottom: solid 2px gray;
+    position: fixed;
+}
+
+h2{
+  width: 100%;
+  float: left;
+  text-align: center;  
+  padding: 1%;
+  color: green !important;
+}
+.divContenido{
+    width: 100%;
+    padding: 2%;
+    float: left;
+}
+.divInterno{
+    float: left;
+    padding: 2%;
+    text-align: center;
+}
+
+#divListado{
+  width: 60%;  
+}
+
+#divEdicion{
+    width: 40%;
+}
+
+table{
+    width: 100%;
+}
+
+table tr td{
+    padding: 3% 1%;
+}
+
+table th{
+    text-align: center;
+}
+
+.tdButton{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    text-align: center;
+}
+
+h3{
+    width: 100%;
+    float: left;
+    padding: 1%;
+    text-align: center;
+    color: blue !important;
+}
+
+.form-group{
+    width: 50%;
+    float: left;
+    padding: 0.5%;
+}
+
+footer{
+    width: 100%;
+    float: left;
+    bottom: 0;
+    position: fixed;
+    border: solid 2px gray;
+}
+
+footer p{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: gray;
+}
